@@ -1,6 +1,6 @@
 # ProjectJoola
 This is a small student project realized in my last semester at UQAC.
-It was created by a team of four students :
+It was created by a team of 4 students :
 - 3 programmers : Michaël Lavoie, Alex Fortin and Carl Grenier (me)
 - 1 level designer : Vincent Guilmoteau
 
